@@ -1,0 +1,8 @@
+export { HeroSection } from './HeroSection'
+export { AboutPreview } from './AboutPreview'
+export { TeachingLevelsGrid } from './TeachingLevelsGrid'
+export { ProgrammesSection } from './ProgrammesSection'
+export { ProductsPreview } from './ProductsPreview'
+export { TestimonialsSection } from './TestimonialsSection'
+export { PricingSection } from './PricingSection'
+export { CTASection } from './CTASection'

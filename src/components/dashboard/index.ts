@@ -1,0 +1,5 @@
+export { DashboardSidebar } from './DashboardSidebar'
+export { DashboardHeader } from './DashboardHeader'
+export { DownloadsTable } from './DownloadsTable'
+export { ClassesList } from './ClassesList'
+export { ProfileForm } from './ProfileForm'
